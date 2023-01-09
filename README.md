@@ -24,7 +24,7 @@
 
 About Me:
 
-Hi, my name’s Ivan. I’m a Quality Assurance Engeneer. 
+Hi, I'm Ivan Slavinski. I’m a Quality Assurance Engeneer. 
 
 Solution-oriented and quality-mad team player, centered in software testing.
 Passionate about making this World and software products better.
