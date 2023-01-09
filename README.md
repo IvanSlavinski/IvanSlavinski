@@ -34,7 +34,7 @@ Healthy perfectionist...sometimes.
 A great "troubleshooter".
 
 I am good at testing, English, cooking and music.
----
+
 
 Hard skills:
 
