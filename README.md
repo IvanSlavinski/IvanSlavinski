@@ -1,19 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/slavinskiivan">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/ivanslavinski">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1q-zGLp2NzKeq11wg-_LQeR52Y27BeBNm/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My CV-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
-  </a>
-</div>
-
 </div>
 <div id="badges" align="center">
 <h1>
