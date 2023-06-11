@@ -17,19 +17,16 @@
 </div>
 <div id="badges" align="center">
 <h1>
-  Hola, muchacho.🏜️
+  Welocme to my GitHub
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-About Me:
-
 Hi, I'm Ivan Slavinski. I’m a Quality Assurance Engeneer. 
 
-Solution-oriented and quality-mad team player, centered in software testing.
+I'm solution-oriented and quality-mad team player, centered in software testing.
 Passionate about making this World and software products better.
-Healthy perfectionist...sometimes.
-A great "troubleshooter".
+Healthy perfectionist...sometimes. A great "troubleshooter".
 
 I am good at testing, English, cooking and music.
 
@@ -37,6 +34,8 @@ I am good at testing, English, cooking and music.
 Hard skills:
 
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="csharp" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VitoOsyko/VitoOsyko/blob/main/image/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
