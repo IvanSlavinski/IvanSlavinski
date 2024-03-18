@@ -26,7 +26,6 @@ Hi, I'm Ivan Slavinski. I’m a Quality Assurance Engeneer.
 
 I'm solution-oriented and quality-mad team player, centered in software testing.
 Passionate about making this World and software products better.
-Healthy perfectionist...sometimes. A great "troubleshooter".
 
 
 Hard skills:
