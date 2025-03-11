@@ -22,7 +22,7 @@
 </h1>
 </div>
 
-Hi, I'm Ivan Slavinski. I’m a Fullstack QA Engeneer. 
+Hi, I'm Ivan Slavinski. I’m a Fullstack QA Engeneer | C#. 
 
 I'm solution-oriented and quality-mad team player, centered in software testing.
 Passionate about making this World and software products better.
