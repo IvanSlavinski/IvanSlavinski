@@ -9,7 +9,7 @@
   <a href="https://t.me/ivanslavinski">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1q-zGLp2NzKeq11wg-_LQeR52Y27BeBNm/view?usp=sharing">
+  <a href="https://drive.google.com/drive/u/0/folders/10PqhxgjCnhBjOznNgSqXGr4YUqxLokBx">
     <img src="https://img.shields.io/badge/My CV-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
   </a>
 </div>
